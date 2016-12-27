@@ -5,7 +5,7 @@ public class MathOperations {
 	public static void main(String[] args)
 	{
 		Addition add = new Addition();
-		System.out.println(+add.add(2, 3));
+		System.out.println("hi "+add.add(2, 3));
 		
 		Subtraction sub = new Subtraction();
 		System.out.println(sub.sub(5, 3));

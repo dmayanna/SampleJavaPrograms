@@ -1,6 +1,6 @@
 package chapter2;
 
-public class MathOperations {
+public class MathOperationstest {
 	
 	public static void main(String[] args)
 	{
